@@ -8,7 +8,6 @@
 # key points 
 #1. Data Collection: Gathering data from various sources such as databases, web scraping, sensors, or social media.
 #2. Data Cleaning: Preparing the data for analysis by removing duplicates, handling missing values, correcting errors, and ensuring consistency.
-Exploratory Data Analysis (EDA): Understanding the underlying patterns in data through summary statistics and visualizations.
 #3. Feature Engineering: Creating new features (variables) or transforming existing ones to improve model performance.
 #4. Statistical Analysis: Using statistical techniques to draw conclusions and insights from data.
 #5. Machine Learning: Applying algorithms to make predictions or decisions based on the data, either through supervised (with labeled data) or unsupervised (without labels) learning.
